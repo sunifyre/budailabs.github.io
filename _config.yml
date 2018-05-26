@@ -1,4 +1,4 @@
 theme: jekyll-theme-merlot
 name: BudAI, AI Chatbot
 markdown: kramdown
-permalink: /budailabs.github.io/blog/:year/:month/:day/:title
+
